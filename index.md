@@ -5,61 +5,7 @@ description: Iniciativa pro spolupráci mezi městy na otevřeném fungování r
 keywords: transparence, otevřený, software, FOSS, města, obce
 ---
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&appId=323850842194&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 # Iniciativa Otevřená města
-
-Vážené kolegyně, vážení kolegové,
-
-jsme starostové, radní a zastupitelé měst a obcí v České republice a oslovujeme
-Vás, protože chceme společně s Vámi zlepšit **otevřenost** radnic v českých
-městech a obcích.
-
-Pod **otevřeným fungováním radnice** si představujeme
-
-* pravidelné zveřejňování informací,
-* vstřícný přístup k občanům,
-* vysoké možnosti zapojení občanů do veřejného dění,
-* průhledné veřejné zakázky od přípravy záměru až do odevzdání výsledku,
-* používání moderních a otevřených technologií ve veřejné správě.
-
-Každodenní fungování radnice přináší celou [řadu výzev ke zlepšení otevřenosti](vyzvy.html).
-Může jít o nehospodárné výdaje, kolabující informační systémy,
-nedůvěru občanů k radnici,
-nevyužité přínosy opakovaně využitelných dat apod. Jako zastupitelé tyto problémy
-známe a víme, že mají podstatné dopady na život občanů.
-
-Jsme přesvědčeni o tom, že řadu problémů lze lépe vyřešit díky **užší spolupráci**
-mezi městy, obcemi a dalšími veřejnými institucemi. Spolupráce ve společných
-tématech vede k šetření rozpočtových prostředků, používání osvědčených řešení a kvalitnějším
-službám občanům.
-Uvědomujeme si, že otevřenost něco stojí, a jsme připraveni na ni
-v rozpočtu vyčlenit prostředky. Jsme přesvědčeni, že vložené náklady se
-nám mnohonásobně vrátí na ušetřených prostředcích.
-
-Naším cílem je do konce roku 2015 založit organizaci, která nám pomůže
-zajistit otevřené fungování našich radnic, umožní nám lépe sdílet zkušeností,
-sjednotí úsilí o otevřenější fungování radnic a
-bude světlem v šerých oblastech, jejichž nástrahy zastupitelé
-v různých městech znovu a znovu odhalují. Mezi prvními cíli organizace
-bude definice standardu pro zveřejnování smluv a faktur, otevřená data a
-návody k zavedení dobré praxe při použití open-source (viz [cíle](cile.html) podrobně).
-
-Abychom dosáhli zlepšení v otevřeném fungování radnic, potřebujeme podporu jednotlivých
-starostů, radních, zastupitelů, tajemníků a úředníků. 
-Pokud se vám naše představa líbí, prosíme vás o následující:
-
-1. seznamte s touto iniciativou další starosty, radní a zastupitele a požádejte je, aby se
-   jako jednotlivci připojili k této iniciativě a podíleli se na formování organizace,
-2. seznamte je s návrhem [stanov](stanovy.html) a zašlete své připomínky a návrhy na zlepšení
-   do e-mailové konference.
 
 Jednání o textu stanov by mělo skončit kolem dubna 2015. Následně přípravný výbor
 zformuluje vzorové návrhy pro zastupitelstva členských měst a jiné subjekty,
@@ -71,7 +17,8 @@ ustavující členská schůze.
 	<div class="large-4 columns">
 		<h3>Podpořte iniciativu</h3>
 
-			<div class="fb-like-box" data-href="https://www.facebook.com/otevrenamesta" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div>
+    Kramdown jfdksfjsl
+    ### jdksljfdls
 	</div>
 
 	<div class="large-4 columns">
