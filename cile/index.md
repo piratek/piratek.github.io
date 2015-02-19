@@ -10,8 +10,7 @@ description: Stanovy dobrovolného svazku Otevřená města
 Následující seznam definuje klíčové oblasti otevřeného fungování radnic,
 kterým by organizace Otevřená města měla věnovat pozornost:
 
-Zveřejnování smluv a dobrá praxe
--------------------------------
+## Zveřejnování smluv a dobrá praxe
 
 Chceme připravit a schválit standard pro zveřejňování smluv a faktur a dále
 na tomto fóru diskutovat o dalších společných standardech, aby měly zveřejněné
