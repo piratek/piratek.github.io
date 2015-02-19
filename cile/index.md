@@ -21,8 +21,7 @@ odborníků a pracovních skupin. Chceme nabídnout online knihovnu znalostí pr
 starostům a zastupitelům vodítkem, jak zveřejňovat informace a poskytovat je
 na žádost ke spokojenosti občanů, jak vypisovat výběrová řízení a soutěže apod.,
 
-Open Data
--------------------------------------
+## Open Data
 
 Chceme průběžně definovat významné ukazatele otevřeného hospodaření (zveřejňování smluv,
 schváleného a upraveného rozpočtu, čerpání rozpočtu, zadávání zakázek, struktura dodavatelů,
