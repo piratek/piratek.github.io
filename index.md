@@ -6,8 +6,7 @@ keywords: transparence, otevřený, software, FOSS, města, obce
 ---
 ## Iniciativa Otevřená města
 
-Jo, tak tohle je pokus, jestli to cele funguje! A funguje!
-
+Jo, tak tohle je pokus, jestli to cele funguje!
 
 <div class="row">
 
