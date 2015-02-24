@@ -1,6 +1,6 @@
 ---
 ##: 
-category: smlouvy
+category: udalosti
 title: poku
 description: pokus meta
 keywords: ahoj, zdar
