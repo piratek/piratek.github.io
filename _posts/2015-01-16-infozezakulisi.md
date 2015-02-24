@@ -3,7 +3,7 @@ category: udalosti
 title: poku
 description: pokus meta
 keywords: ahoj, zdar
-tags: hovno, stacka
+tags: hovno
 layout: blog
 ---
 
