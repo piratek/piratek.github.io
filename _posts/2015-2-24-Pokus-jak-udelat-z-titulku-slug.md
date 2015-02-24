@@ -1,6 +1,6 @@
 ---
 category: udalosti
-tags: tag1
+tags: tag1,tag3
 title: Pokus, jak udělat z titulku slug
 description: jak udelat slug
 layout: post
@@ -11,3 +11,5 @@ Ma ukazat:
 
 - jfdsjfdslfdjds
 - jdklsjflsdkfjs
+
+Ahojh
