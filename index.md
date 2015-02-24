@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Iniciativa
+title: Iniciativa jeky edit
 description: Iniciativa pro spolupráci mezi městy na otevřeném fungování radnic
 keywords: transparence, otevřený, software, FOSS, města, obce
 ---
 ## Iniciativa Otevřená města
 
-Jo, tak tohle je pokus, jestli to cele funguje!
+Jo, tak tohle je pokus, jestli to cele funguje! A funguje!
 
 
 <div class="row">
