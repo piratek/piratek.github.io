@@ -4,13 +4,10 @@ title: Iniciativa
 description: Iniciativa pro spolupráci mezi městy na otevřeném fungování radnic
 keywords: transparence, otevřený, software, FOSS, města, obce
 ---
+## Iniciativa Otevřená města
 
-# Iniciativa Otevřená města
+Jo, tak tohle je pokus, jestli to cele funguje!
 
-Jednání o textu stanov by mělo skončit kolem dubna 2015. Následně přípravný výbor
-zformuluje vzorové návrhy pro zastupitelstva členských měst a jiné subjekty,
-aby s nimi mohly vyslovit svůj souhlas. Ve druhé polovině roku 2015 se bude konat
-ustavující členská schůze.
 
 <div class="row">
 
