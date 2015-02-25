@@ -3,12 +3,12 @@ layout: default
 title: Cíle
 description: Stanovy dobrovolného svazku Otevřená města
 ---
-
-
 # Cíle fungování
 
 Následující seznam definuje klíčové oblasti otevřeného fungování radnic,
 kterým by organizace Otevřená města měla věnovat pozornost:
+
+![ds](/static/media/budPirat.jpg)
 
 ## Zveřejnování smluv a dobrá praxe
 
