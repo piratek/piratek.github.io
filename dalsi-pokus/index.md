@@ -2,6 +2,6 @@
 title: Další pokus
 description: jskaldja
 layout: default
-keywords: pokus
+keywords: pokus, omyl
 ---
-dalsi ze serie pokusu :)
+dalsi ze serie pokusu :) Jojojojo
