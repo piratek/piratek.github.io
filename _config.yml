@@ -1,6 +1,6 @@
 # Site settings
-title: Otevřená města
-keywords: otevřené fungování radnice, open-source software
+title: angular-jekyll-editor test site
+keywords: angular, jekyll, editor
 baseurl: "" # the subpath of your site, e.g. /blog/
 gems:
     - jekyll-sitemap
