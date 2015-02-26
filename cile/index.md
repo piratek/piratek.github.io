@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Cíle
-description: Stanovy dobrovolného svazku Otevřená města
+description: Stanovy dobrovolného svazku Otevřená města ...
+keywords: kw1, cile, nevim
 ---
 # Cíle fungování
 
@@ -9,6 +10,18 @@ Následující seznam definuje klíčové oblasti otevřeného fungování radni
 kterým by organizace Otevřená města měla věnovat pozornost:
 
 ![ds](/static/media/budPirat.jpg)
+
+Ahoj, jak se mas?
+
+## nadpis
+
+A nasleduje seznam:
+
+- polozka1
+- polozka3
+
+> A prima rec taky nesmi chybet ze?
+> a muze byt na vice radcich ...
 
 ## Zveřejnování smluv a dobrá praxe
 
