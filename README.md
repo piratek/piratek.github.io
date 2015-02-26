@@ -1,4 +1,6 @@
-# POkusny web
+# playground site for angular-jekyll-editor
+
+Details on http://www.otevrenamesta.cz/angular-jekyll-editor/
 
 ### Asset Generation (optional)
 
