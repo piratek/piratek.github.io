@@ -10,6 +10,8 @@ sass:
     sass_dir: assets/_sass
     style: :compressed
 
+# see. best practices DOs and DONTs for details about following section
+# http://www.elegantthemes.com/blog/tips-tricks/best-practices-for-using-categories-and-tags-in-wordpress
 avail_tags: rada, zastupitelstvo, územníplán, kultura, sport
-avail_categories: AKCE, JEDNÁNÍ, PLÁNY, ÚŘEDNÍ_DESKA
-avail_filecategories: SMLOUVY, ZÁPISY, VÝKRESY, GRAFIKA, UZÁVĚRKY
+avail_cats: AKCE, JEDNÁNÍ, PLÁNY, ÚŘEDNÍ_DESKA
+avail_filecats: SMLOUVY, ZÁPISY, VÝKRESY, GRAFIKA, UZÁVĚRKY
