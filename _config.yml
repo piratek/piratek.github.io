@@ -9,3 +9,7 @@ gems:
 sass:
     sass_dir: assets/_sass
     style: :compressed
+
+avail_tags: rada, zastupitelstvo, územníplán, kultura, sport
+avail_categories: AKCE, JEDNÁNÍ, PLÁNY, ÚŘEDNÍ_DESKA
+avail_filecategories: SMLOUVY, ZÁPISY, VÝKRESY, GRAFIKA, UZÁVĚRKY
